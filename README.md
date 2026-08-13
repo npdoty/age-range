@@ -47,7 +47,8 @@ Several jurisdictions
 [New York](https://www.nysenate.gov/legislation/bills/2025/S8102))
 have active legislation under consideration
 that, if passed, would mandate the provision of age range signals to websites.
-This proposal describes an API that enables compliance with this form of legislation.
+While this API design would not guarantee compliance with any particular jurisdiction's legislation,
+this proposal describes an API that would enable compliance with this form of legislation in an interoperable way.
 
 Providing websites with any information about the age of a user
 can be in direct tension to the obligation of a user agent
